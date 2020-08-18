@@ -28,6 +28,9 @@
     "molnia-sheets-e2e": {
       "tags": [],
       "implicitDependencies": ["molnia-sheets"]
+    },
+    "api": {
+      "tags": []
     }
   }
 }
