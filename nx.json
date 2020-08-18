@@ -21,5 +21,13 @@
       }
     }
   },
-  "projects": {}
+  "projects": {
+    "molnia-sheets": {
+      "tags": []
+    },
+    "molnia-sheets-e2e": {
+      "tags": [],
+      "implicitDependencies": ["molnia-sheets"]
+    }
+  }
 }
