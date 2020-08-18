@@ -29,6 +29,7 @@
   "dependencies": {},
   "devDependencies": {
     "@nrwl/nest": "^10.0.12",
+    "@nrwl/react": "^10.0.12",
     "@nrwl/workspace": "10.0.12",
     "@types/node": "~8.9.4",
     "dotenv": "6.2.0",
